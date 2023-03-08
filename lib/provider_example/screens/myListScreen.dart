@@ -4,7 +4,6 @@ import 'package:provider/provider.dart';
 
 import '../provider/movie_provider.dart';
 
-
 class MyListScreen extends StatefulWidget {
   const MyListScreen({Key? key}) : super(key: key);
 

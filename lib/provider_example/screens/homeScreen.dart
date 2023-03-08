@@ -87,7 +87,8 @@ class _HomeScreenproviderState extends State<HomeScreenprovider> {
                               ),
                             ),
                           );
-                        }),
+                        },
+                    ),
                   ),
                 ),
               ),
